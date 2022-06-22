@@ -1,9 +1,9 @@
-### About Me 📦⚡️🔧
-- 💡🔥🔎Working on Lua extensions
+#### 📦 About Me
+- ⚡️🔥Working on Lua extensions
 - 🌱 Learning C, Haskell and Nim
 - 📫 How to reach me: [Telegram](https://t.me/arkt8)
 
-#### Languages
+#### 🔧 Languages
 - 💚 Lua
 - 🌄 C
 - 🌱 Haskell
@@ -15,7 +15,7 @@
 - 📎 Python
 - 📎 CSS / HTML
 
-#### Technologies
+#### 💡 Technologies
 - Webserver: Nginx, Apache
 - Cloud: AWS
 - DB: MariaDB, MongoDB, SQLite
@@ -27,7 +27,7 @@
 - Language: Lua
 - DB: SQLite
 
-#### Personal Interests 🔭
+#### 🔎 Personal Interests 🔭
 - Astronomy, Physics
 - Art
 - Analytical Psychology, Antropology
