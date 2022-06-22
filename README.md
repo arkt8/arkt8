@@ -1,32 +1,36 @@
-### About Me 👋
-- 🔭 📦💡🔥🔎Working on Lua extensions
+### About Me 📦
+- 💡🔥🔎Working on Lua extensions
 - 🌱 Learning C, Haskell and Nim
 - 📫 How to reach me: [Telegram](https://t.me/arkt8)
 
 #### Languages
 - 💚 Lua
-- 💎 PHP
-- 💎 Javascript
-- 💎 Shellscript (Bash, Zsh & POSIX)
-- 💎 SQL
-- 😜 CSS / HTML
 - 🌄 C
 - 🌱 Haskell
 - 💚 Nim
+- 💎 PHP
+- 💎 Ecmascript
+- 💎 Shellscript (Bash, Zsh & POSIX)
+- 💎 SQL
 - 📎 Python
+- 📎 CSS / HTML
 
 #### Technologies
 - Webserver: Nginx, Apache
 - Cloud: AWS
 - DB: MariaDB, MongoDB, SQLite
 
-#### Favorites
-- 💚 OS: Debian Gnu/Linux
-- 💚 Editor: NeoVim
-- 💚 Browser: Luakit
+#### Favorites 💚
+- OS: Debian Gnu/Linux
+- Editor: NeoVim
+- Browser: Luakit
 - Language: Lua
 - DB: SQLite
 
+#### Personal Interests 🔭
+- Astronomy, Physics
+- Art
+- Analytical Psychology, Antropology
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arkt8&show_icons=true&theme=nord)
 
