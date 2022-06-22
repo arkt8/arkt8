@@ -1,5 +1,9 @@
 #### 📦 About Me
-- ⚡️Working on Lua extensions
+
+Hi, my name is Thadeu de Paula, from Brazil 🇧🇷.
+You can see some topics about me below:
+
+- ⚡️ Working on Lua extensions
 - 🌱 Learning C, Haskell and Nim
 - 📫 How to reach me: [Telegram](https://t.me/arkt8)
 
@@ -31,9 +35,12 @@
 - Language: Lua
 - DB: SQLite
 
-#### 🔎 Personal Interests 🔭
+#### 🔎 Personal Interests
+
+- Abrahamic monotheistic religion
 - Astronomy, Physics
-- Art
+- Painting, Islamic Art
 - Analytical Psychology, Antropology
+- Leftism, Anarchism
 
 
