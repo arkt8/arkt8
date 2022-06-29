@@ -7,7 +7,7 @@ You can see some topics about me below:
 - 🌱 Learning C, Haskell and Nim
 - 📫 How to reach me: [Telegram](https://t.me/arkt8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkt8&theme=nord&show_icons=true&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkt8&theme=nord&show_icons=true&langs_count=10&layout=compact&ts=20220629)
 
 #### 🔧 Languages
 - 💚 Lua
