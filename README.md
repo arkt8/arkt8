@@ -2,7 +2,7 @@
 
 Hi, my name is Thadeu de Paula, from Brazil 🇧🇷.
 
-Actually working with Lua and C in [Axa](https://github.com/axa-dev), also interested in Nim and paralel computing and AI.How to reach me: [Telegram](https://t.me/arkt8)
+Actually working with Lua and C in [Axa](https://github.com/axa-dev), also interested in Nim and paralel computing and AI.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkt8&theme=nord&show_icons=true&langs_count=10&layout=compact&ts=20120629)
 
@@ -14,3 +14,5 @@ Actually working with Lua and C in [Axa](https://github.com/axa-dev), also inter
 #### Personal
 - Abrahamic monotheistic religion
 - Astronomy, Physics, Statistics, Painting, Islamic Art, Jungian Psychology, Antropology
+
+If you like my work and want to sponsor or contribute, reach me on [Telegram](https://t.me/arkt8)
