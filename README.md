@@ -10,28 +10,17 @@ You can see some topics about me below:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkt8&theme=nord&show_icons=true&langs_count=10&layout=compact&ts=20220629)
 
 #### 🔧 Languages
-- 💚 Lua
-- 🌄 C
-- 🌱 Haskell
-- 💚 Nim
-- 💎 PHP
-- 💎 Ecmascript
-- 💎 Shellscript (Bash, Zsh & POSIX)
-- 💎 SQL
-- 📎 Python
-- 📎 CSS / HTML
+- 💚 Prefered: Lua, C, Haskell, Nim
+- 💎 Works with: PHP, Ecmascript, Shellscript (Bash, Zsh & POSIX), SQL
+- 📎 Also knows: Python, CSS / HTML
 
 #### 💡 Technologies
-- Webserver: Nginx, Apache
-- Cloud: AWS
+- Web: Nginx, Apache, AWS
 - DB: MariaDB, MongoDB, SQLite
 
 #### 💚 Favorites
-- OS: Debian Gnu/Linux
-- Editor: NeoVim
-- Browser: Luakit
-- Language: Lua
-- DB: SQLite
+- OS: Debian Gnu/Linux, AntiX
+- Environment: NeoVim, Luakit, I3Wm, bitmap fonts
 
 #### 🔎 Personal Interests
 
@@ -40,5 +29,3 @@ You can see some topics about me below:
 - Painting, Islamic Art
 - Analytical Psychology, Antropology
 - Leftism, Anarchism
-
-
