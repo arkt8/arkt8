@@ -1,31 +1,16 @@
 #### 📦 About Me
 
 Hi, my name is Thadeu de Paula, from Brazil 🇧🇷.
-You can see some topics about me below:
 
-- ⚡️ Working on Lua extensions
-- 🌱 Learning C, Haskell and Nim
-- 📫 How to reach me: [Telegram](https://t.me/arkt8)
+Actually working with Lua and C in [Axa](https://github.com/axa-dev), also interested in Nim and paralel computing and AI.How to reach me: [Telegram](https://t.me/arkt8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkt8&theme=nord&show_icons=true&langs_count=10&layout=compact&ts=20220629)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkt8&theme=nord&show_icons=true&langs_count=10&layout=compact&ts=20120629)
 
-#### 🔧 Languages
-- 💚 Prefered: Lua, C, Haskell, Nim
+#### Languages & Technologies
+- 💚 Prefered: Lua, C, Haskell, Nim, SQLite, Nginx, Debian, NeoVim, Luakit
 - 💎 Works with: PHP, Ecmascript, Shellscript (Bash, Zsh & POSIX), SQL
-- 📎 Also knows: Python, CSS / HTML
+- 📎 Also knows: Python, CSS / HTML, MariaDB, MongoDB, SQLite, Apache, AWS
 
-#### 💡 Technologies
-- Web: Nginx, Apache, AWS
-- DB: MariaDB, MongoDB, SQLite
-
-#### 💚 Favorites
-- OS: Debian Gnu/Linux, AntiX
-- Environment: NeoVim, Luakit, I3Wm, bitmap fonts
-
-#### 🔎 Personal Interests
-
+#### Personal
 - Abrahamic monotheistic religion
-- Astronomy, Physics
-- Painting, Islamic Art
-- Analytical Psychology, Antropology
-- Leftism, Anarchism
+- Astronomy, Physics, Statistics, Painting, Islamic Art, Jungian Psychology, Antropology
