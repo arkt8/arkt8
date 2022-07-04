@@ -12,7 +12,6 @@ Actually working with Lua and C in [Axa](https://github.com/axa-dev), also inter
 - 📎 Also knows: Python, CSS / HTML, MariaDB, MongoDB, SQLite, Apache, AWS
 
 #### Personal
-- Abrahamic monotheistic religion
-- Astronomy, Physics, Statistics, Painting, Islamic Art, Jungian Psychology, Antropology
+- Abrahamic religions, Astronomy, Physics, Statistics, Antropology, Painting, Islamic Art, Jungian Psychology, Antropology
 
 If you like my work and want to sponsor or contribute, reach me on [Telegram](https://t.me/arkt8)
